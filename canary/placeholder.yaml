@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: rce-canary-placeholder
 data:
-  note: "security test only"
+  note: "cache-test-2026-11-12-02"
